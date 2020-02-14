@@ -1,0 +1,15 @@
+header .profile img {
+    border: 2px solid #1bbcc6;
+    border-radius: 100%;
+    height: 100px;
+    object-fit: cover;
+    width: 100px;
+    -webkit-box-shadow: 2px 3px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 3px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 3px 10px 0px rgba(0,0,0,0.75);
+    margin: 10px;
+}
+
+header .profile p {
+    color: white;
+}

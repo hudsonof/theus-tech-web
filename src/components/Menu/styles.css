@@ -1,0 +1,17 @@
+.menu {
+    margin-top: 20px;
+}
+
+.btn-collapse {
+    margin-top: 10px;
+    padding-left: 30px !important;
+}
+
+.btn-collapse svg {
+    float: right;
+    margin: 5px;
+}
+
+.btn-space {
+    margin-top: 10px;
+}

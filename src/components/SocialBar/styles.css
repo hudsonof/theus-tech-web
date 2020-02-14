@@ -1,0 +1,11 @@
+.social {
+    margin-top: 10px;
+    color: #FFF;
+    font-size: 30px;
+}
+
+.social a {
+    color: inherit;
+    text-decoration: none;
+    margin-left: 10px;
+}
