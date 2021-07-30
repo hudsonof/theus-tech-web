@@ -1,5 +1,7 @@
 ## Site para o DJ Theus Tech
 
+Preview: https://theus-tech-web.vercel.app/
+
 ### Scheenshots - Mobile e Desktop
 
 ![Mobile Screenshot](https://github.com/hudsonof/theus-tech-web/blob/master/mobile-screenshot.png)
