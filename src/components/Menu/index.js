@@ -227,7 +227,7 @@ class Menu extends Component {
 
                 <a href="https://www.youtube.com/channel/UC-vFXimWXa4VG_9L1aM0qTg" className="btn btn-block btn-info btn-space" role="button" aria-pressed="true">Live Set</a>
 
-                <a href="https://api.whatsapp.com/send?phone=5511973034263" className="btn btn-block btn-info" role="button"
+                <a href="https://api.whatsapp.com/send?phone=5511973034263" className="btn btn-block btn-info btn-space" role="button"
                     aria-pressed="true">Contato</a>
             </div>
         );
