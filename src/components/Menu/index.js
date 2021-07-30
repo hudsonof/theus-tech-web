@@ -51,13 +51,12 @@ class Menu extends Component {
                     <div id="collapseRelease">
                         <div className="card card-body">
                             <p>TheusTech, é natural de São Caetano do Sul/SP. Apaixonado por música, iniciou sua carreira
-                            buscando por novas tendências.</p>
-                            <p>Em seus Sets apresentado nas festa Fry tech, Love Tech, Mixed, Endless vem agradando e encantando
-                            seu público.</p>
+                                buscando por novas tendências.</p>
+                            <p>Em seus Sets apresentado nas festa katavento, Forbidden, Fry tech, Love Tech,Low, Mixed, Endless
+                                vem agradando e encantando seu público.</p>
                             <p>O artista não cansa de surpreender com seu talento e profissionalismo, destacando-se pela técnica
                                 apurada de mixagem, vasto repertorio musical e Feeling apurado para sonorizar e animar qualquer
-                            tipo de público.</p>
-
+                                tipo de público.</p>
                             <p>Seus Set’s são compostos por Bass House, Tech House, Techno.</p>
                         </div>
                     </div>
@@ -69,6 +68,60 @@ class Menu extends Component {
                 <Collapse in={this.state.collapseShows}>
                     <div className="collapse" id="collapseShows" data-parent="#mainContent">
                         <div className="card card-body">
+                            Forbidden 1
+                            <iframe
+                                title="Forbidden 1"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/ZAVLOxnY8xo'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
+                            Forbidden 2
+                            <iframe
+                                title="Forbidden 2"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/6WhL8JRSzE0'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
+                            Live LoveTech
+                            <iframe
+                                title="Live LoveTech"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/dxRg_HpuCHA'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
+                            Festa do Saudações
+                            <iframe
+                                title="Festa do Saudações"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/LIdbIFFEBV8'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
+                            Coconut
+                            <iframe
+                                title="Coconut"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/g2iRUHku3tc'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
+                            Hobby
+                            <iframe
+                                title="Hobby"
+                                width='100%'
+                                height='315'
+                                src='https://www.youtube.com/embed/r0N9fHrF6Co'
+                                frameBorder='0'
+                                allowFullScreen></iframe>
+                            <br />
                             Sunrise - Almeida Tabacaria
                             <iframe
                                 title="Sunrise - Almeida Tabacaria"
@@ -77,22 +130,13 @@ class Menu extends Component {
                                 src='https://www.youtube.com/embed/CFIvUwvlfkA'
                                 frameBorder='0'
                                 allowFullScreen></iframe>
-
+                            <br />
                             Sunrise - Almeida Tabacaria 2
                             <iframe
                                 title="Sunrise - Almeida Tabacaria 2"
                                 width='100%'
                                 height='315'
                                 src='https://www.youtube.com/embed/VQj9KO9B7xk'
-                                frameBorder='0'
-                                allowFullScreen></iframe>
-                            <br />
-                            Sunrise - Almeida Tabacaria 3
-                            <iframe
-                                title="Sunrise - Almeida Tabacaria 3"
-                                width='100%'
-                                height='315'
-                                src='https://www.youtube.com/embed/durWvFcXY_Y'
                                 frameBorder='0'
                                 allowFullScreen></iframe>
                             <br />
@@ -183,7 +227,7 @@ class Menu extends Component {
 
                 <a href="https://www.youtube.com/channel/UC-vFXimWXa4VG_9L1aM0qTg" className="btn btn-block btn-info btn-space" role="button" aria-pressed="true">Live Set</a>
 
-                <a href="https://api.whatsapp.com/send?phone=5511932133801" className="btn btn-block btn-info" role="button"
+                <a href="https://api.whatsapp.com/send?phone=5511973034263" className="btn btn-block btn-info" role="button"
                     aria-pressed="true">Contato</a>
             </div>
         );
