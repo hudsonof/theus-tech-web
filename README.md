@@ -1,3 +1,13 @@
+## Site para o DJ Theus Tech
+
+### Scheenshots - Mobile e Desktop
+
+![Mobile Screenshot](https://github.com/hudsonof/theus-tech-web/blob/master/mobile-screenshot.png)
+
+![Desktop Screenshot](https://github.com/hudsonof/theus-tech-web/blob/master/desktop-screenshot.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
